@@ -8,6 +8,9 @@ The handheld transmitter is powered by a rechargeable battery and incorporates a
 
 The receiver unit controls a stepper motor with precise directional movement, enabling smooth and accurate positioning during the powder coating process. Operators can simply press the directional buttons on the remote control to move the mechanism forward, backward, clockwise, or counterclockwise as required.
 
+<img width="1672" height="941" alt="image (2)" src="https://github.com/user-attachments/assets/9e18913d-44e6-4ab1-844f-6020c783d2e0" />
+
+
 ## Key Features
 
 * Wireless remote operation for enhanced operator convenience
